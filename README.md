@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=lox1co&label=Profile%20views&color=0e75b6&style=flat" alt="lox1co" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lox1co/github-stats-transparent/27a9c38b7388658f61d3760a1a5d2a0af43a21a3/generated/languages.svg" alt="lox1co" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lox1co&show_icons=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=0d1117&hide_border=true" alt="lox1co" />
 </p>
 <h3 align="center">Languages</h3>
 <p align="center">
